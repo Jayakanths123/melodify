@@ -2,6 +2,9 @@
 
 A full-stack music streaming app with real-time synchronized listening rooms ("Vibe Together"). Built with React, TypeScript, Node.js, WebSocket, and Firebase.
 
+## Deployed Link 
+https://melodify-xjtz.onrender.com/login
+
 ## Features
 
 - **Music Player** — Play, pause, skip, seek, shuffle, repeat with volume persistence
